@@ -1,0 +1,2 @@
+[submodule "WeatherAppGUI"]
+	url = git@github.com:TobyBohbot/WeatherAppGUI.git
