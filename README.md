@@ -8,7 +8,7 @@
 - **User-Friendly Interface**: A simple and intuitive GUI that allows users to search for a location and view weather details.
 - **Dynamic Weather Icons**: The application displays different weather icons based on the current weather conditions.
 - **API Integration**: Uses the Open-Meteo API to retrieve accurate and up-to-date weather data.
-- **Cross-Platform**: The application can run on any platform that supports Java.
+- **Cross-Platform**: The application can run on any platform that supports JAVA.
 
 ## Getting Started
 
